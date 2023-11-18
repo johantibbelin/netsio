@@ -3,3 +3,11 @@
 */
 #include "netsio.h"
 
+NETSIO_send_byte() {}
+
+NETSIO_recive_byte() {}
+
+NETSIO_cold_reset() {}
+
+NETSIO_warm_reset() {}
+
