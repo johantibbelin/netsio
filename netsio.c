@@ -11,3 +11,6 @@ NETSIO_cold_reset() {}
 
 NETSIO_warm_reset() {}
 
+NETSIO_connect() {}
+
+NETSIO_disconnect() {}
