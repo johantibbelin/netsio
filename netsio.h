@@ -28,4 +28,8 @@ NETSIO_connect();
 
 NETSIO_disconnect();
 
+NETSIO_motor_off();
+
+NETSIO_motor_on();
+
 #endif // NETSIO_H

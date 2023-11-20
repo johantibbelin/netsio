@@ -14,3 +14,7 @@ NETSIO_warm_reset() {}
 NETSIO_connect() {}
 
 NETSIO_disconnect() {}
+
+NETSIO_motor_on() {}
+
+NETSIO_motor_off() {}
