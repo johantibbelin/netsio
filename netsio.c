@@ -3,18 +3,20 @@
 */
 #include "netsio.h"
 
-NETSIO_send_byte() {}
+uint8_t NETSIO_send_byte() {}
 
-NETSIO_recive_byte() {}
+uint8_t NETSIO_recive_byte() {}
 
-NETSIO_cold_reset() {}
+void NETSIO_cold_reset() {}
 
-NETSIO_warm_reset() {}
+void NETSIO_warm_reset() {}
 
-NETSIO_connect() {}
+void NETSIO_connect() {}
 
-NETSIO_disconnect() {}
+void NETSIO_disconnect() {}
 
-NETSIO_motor_on() {}
+void NETSIO_motor_on() {}
 
-NETSIO_motor_off() {}
+void NETSIO_motor_off() {}
+
+void NETSIO_sync_response() {}
