@@ -20,3 +20,5 @@ void NETSIO_motor_on() {}
 void NETSIO_motor_off() {}
 
 void NETSIO_sync_response() {}
+
+void NETSIO_send_keepalive() {}

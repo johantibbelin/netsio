@@ -34,4 +34,5 @@ void NETSIO_motor_on();
 
 void NETSIO_sync_response(); 
 
+void NETSIO_send_keepalive();
 #endif // NETSIO_H
