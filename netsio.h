@@ -37,4 +37,6 @@ void NETSIO_sync_response();
 void NETSIO_send_keepalive();
 
 void NETSIO_set_port();
+
+void NETSIO_get_port();
 #endif // NETSIO_H
